@@ -1,2 +1,2 @@
-# Logica
-Um pouco dos meus estudos de lógica de programação com Java. Vários exercícios.
+#  Logica de programação com Java
+Vários exercicios de lógica de programação utilizando a linguagem Java
